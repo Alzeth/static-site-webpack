@@ -1,0 +1,9 @@
+<% var data = {
+  title: "Second Page",
+  author: ""
+}; %>
+<%= _.template(require('./../includes/header.html').default)(data) %>
+
+<div class="container">Second Page</div>
+
+<%= _.template(require('./../includes/footer.html').default)(data) %>
