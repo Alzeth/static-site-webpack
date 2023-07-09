@@ -21,7 +21,7 @@
     "cssnano": "^5.1.14",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^0.7.0",
-    "node-sass": "^7.0.3",
+    "node-sass": "^9.0.0",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.18.2",
     "raw-loader": "^3.0.0",
